@@ -2,6 +2,8 @@
 
 A simple logging library implemented in Crystal (inspired by [`rxi/log.c`](https://github.com/rxi/log.c))
 
+![Screenshot](https://user-images.githubusercontent.com/70830482/112226753-d01bf280-8beb-11eb-9a2c-a8509f84cc4d.png)
+
 ## Usage
 
 **[log.cr](log.cr?raw=1)** provides 6 functions for logging:
